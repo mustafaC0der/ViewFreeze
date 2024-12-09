@@ -1,0 +1,5 @@
+# Specify text file normalization
+* text=auto
+
+# Add specific rules for common file types
+*.rb linguist-language=Ruby
