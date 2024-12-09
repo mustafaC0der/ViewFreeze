@@ -1,0 +1,16 @@
+# Ignore system files
+.DS_Store
+
+# Ignore editor files
+.vscode/
+.idea/
+.vs/
+
+# Ignore log files and temp files
+*.log
+*.tmp
+
+# Ignore bundler and Ruby-specific files
+/vendor/
+.bundle/
+Gemfile.lock
