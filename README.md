@@ -5,7 +5,6 @@
 ## Folder Structure
 - `docs/`: Documentation files for the project.
 - `src/`: Source code files for the application.
-- `.vs/`: Visual Studio files (if applicable).
 
 ## Usage
 
