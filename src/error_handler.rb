@@ -1,4 +1,3 @@
-# error_handler.rb
 require_relative 'logging_service'
 
 # Module for standardized error handling.
